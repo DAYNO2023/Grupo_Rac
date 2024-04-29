@@ -1,0 +1,12 @@
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\bin\Debug\net5.0\Grupo_Rac.Common.deps.json
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\bin\Debug\net5.0\Grupo_Rac.Common.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\bin\Debug\net5.0\ref\Grupo_Rac.Common.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\bin\Debug\net5.0\Grupo_Rac.Common.pdb
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\obj\Debug\net5.0\Grupo_Rac.Common.csproj.AssemblyReference.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\obj\Debug\net5.0\Grupo_Rac.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\obj\Debug\net5.0\Grupo_Rac.Common.AssemblyInfoInputs.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\obj\Debug\net5.0\Grupo_Rac.Common.AssemblyInfo.cs
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\obj\Debug\net5.0\Grupo_Rac.Common.csproj.CoreCompileInputs.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\obj\Debug\net5.0\Grupo_Rac.Common.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\obj\Debug\net5.0\ref\Grupo_Rac.Common.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.Common\obj\Debug\net5.0\Grupo_Rac.Common.pdb

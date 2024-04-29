@@ -1,0 +1,17 @@
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\bin\Debug\net5.0\Grupo_Rac.DataAccess.deps.json
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\bin\Debug\net5.0\Grupo_Rac.DataAccess.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\bin\Debug\net5.0\ref\Grupo_Rac.DataAccess.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\bin\Debug\net5.0\Grupo_Rac.DataAccess.pdb
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\bin\Debug\net5.0\Grupo_Rac.Common.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\bin\Debug\net5.0\Grupo_Rac.Entities.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\bin\Debug\net5.0\Grupo_Rac.Common.pdb
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\bin\Debug\net5.0\Grupo_Rac.Entities.pdb
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\Grupo_Rac.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\Grupo_Rac.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\Grupo_Rac.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\Grupo_Rac.DataAccess.AssemblyInfo.cs
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\Grupo_Rac.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\Grupo_Rac.DataAccess.csproj.CopyComplete
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\Grupo_Rac.DataAccess.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\ref\Grupo_Rac.DataAccess.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\Grupo_Rac.DataAccess\obj\Debug\net5.0\Grupo_Rac.DataAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\bin\Debug\net5.0\Grupo_Rac.Entities.deps.json
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\bin\Debug\net5.0\Grupo_Rac.Entities.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\bin\Debug\net5.0\ref\Grupo_Rac.Entities.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\bin\Debug\net5.0\Grupo_Rac.Entities.pdb
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\obj\Debug\net5.0\Grupo_Rac.Entities.csproj.AssemblyReference.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\obj\Debug\net5.0\Grupo_Rac.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\obj\Debug\net5.0\Grupo_Rac.Entities.AssemblyInfoInputs.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\obj\Debug\net5.0\Grupo_Rac.Entities.AssemblyInfo.cs
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\obj\Debug\net5.0\Grupo_Rac.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\obj\Debug\net5.0\Grupo_Rac.Entities.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\obj\Debug\net5.0\ref\Grupo_Rac.Entities.dll
+C:\Users\Latitude x360\Documents\Grupo_Rac\SistemaRestaurante.Entities\obj\Debug\net5.0\Grupo_Rac.Entities.pdb
