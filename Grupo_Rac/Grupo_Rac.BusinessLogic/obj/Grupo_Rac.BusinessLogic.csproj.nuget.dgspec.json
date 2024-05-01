@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\Grupo_Rac.BusinessLogic.csproj": {}
+    "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\Grupo_Rac.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\Grupo_Rac.BusinessLogic.csproj": {
+    "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\Grupo_Rac.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\Grupo_Rac.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\Grupo_Rac.BusinessLogic.csproj",
         "projectName": "Grupo_Rac.BusinessLogic",
-        "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\Grupo_Rac.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\Grupo_Rac.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Latitude x360\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Latitude x360\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj"
+              "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {
+    "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj",
         "projectName": "Grupo_Rac.Common",
-        "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj",
+        "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj",
         "packagesPath": "C:\\Users\\Latitude x360\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\obj\\",
+        "outputPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Latitude x360\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj": {
+    "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
         "projectName": "Grupo_Rac.DataAccess",
-        "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Latitude x360\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Latitude x360\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,11 +140,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {
-                "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj"
+              "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {
+                "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj"
               },
-              "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj": {
-                "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj"
+              "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj": {
+                "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj"
               }
             }
           }
@@ -191,14 +191,14 @@
         }
       }
     },
-    "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj": {
+    "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj",
         "projectName": "Grupo_Rac.Entities",
-        "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj",
+        "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj",
         "packagesPath": "C:\\Users\\Latitude x360\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Latitude x360\\AppData\\Roaming\\NuGet\\NuGet.Config",

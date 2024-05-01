@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t2+XMKbx7YoypVSELgViS4UGjsk2TntYvhuOZzRV2HKHarPUZGHjBpLtGUL78I/GHIC89dWM3IRlCiAKsdqJvw==",
+  "dgSpecHash": "rDPczDPjtVBaVyEvqa9SqmaryRYAydusUNo0222DVvNde3LceuKQol9Zh8ycNfXskxxJroh4c/kiwrlwCz/P9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.API\\Grupo_Rac.API.csproj",
+  "projectFilePath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.API\\Grupo_Rac.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Latitude x360\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Latitude x360\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

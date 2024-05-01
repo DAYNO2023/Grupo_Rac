@@ -15,8 +15,4 @@
     <ProjectReference Include="..\SistemaRestaurante.Entities\Grupo_Rac.Entities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositorio\" />
-  </ItemGroup>
-
 </Project>

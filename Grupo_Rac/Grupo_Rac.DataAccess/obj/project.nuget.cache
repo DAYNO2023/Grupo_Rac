@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wCc0JeTDKtb/e6bsScTq/jM5z41WVVHj/Thjq3dz/HrumVN0zzDsy9R/Wi2WIjlym+GCn/d7bovxPBTtC7HdsQ==",
+  "dgSpecHash": "UWuSNBX7b0UVWffs95EvEPgqsHUBwTuUAexxJMGhYbrqKt17GOg2v6oEKgzN0O4bBs5yxU761OhxLCbdAoibhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Latitude x360\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Latitude x360\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -5767,11 +5767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
       "projectName": "Grupo_Rac.DataAccess",
-      "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\Grupo_Rac.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Latitude x360\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Latitude x360\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5788,11 +5788,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {
-              "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj"
+            "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {
+              "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj"
             },
-            "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj": {
-              "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj"
+            "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj": {
+              "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj"
             }
           }
         }

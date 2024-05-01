@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj",
       "projectName": "Grupo_Rac.Entities",
-      "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj",
+      "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\Grupo_Rac.Entities.csproj",
       "packagesPath": "C:\\Users\\Latitude x360\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\SistemaRestaurante.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\SistemaRestaurante.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Latitude x360\\AppData\\Roaming\\NuGet\\NuGet.Config",

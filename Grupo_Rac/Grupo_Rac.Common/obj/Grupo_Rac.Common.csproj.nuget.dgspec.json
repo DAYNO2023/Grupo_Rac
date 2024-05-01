@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {}
+    "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {
+    "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj",
         "projectName": "Grupo_Rac.Common",
-        "projectPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj",
+        "projectPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\Grupo_Rac.Common.csproj",
         "packagesPath": "C:\\Users\\Latitude x360\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Latitude x360\\Desktop\\Grupo_Rac\\Grupo_Rac.Common\\obj\\",
+        "outputPath": "C:\\Users\\Latitude x360\\Documents\\GitHub\\Grupo_Rac\\Grupo_Rac\\Grupo_Rac.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Latitude x360\\AppData\\Roaming\\NuGet\\NuGet.Config",
