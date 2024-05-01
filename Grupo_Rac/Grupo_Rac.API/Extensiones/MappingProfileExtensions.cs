@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Grupo_Rac.Common.Models;
+using Grupo_Rac.Entities.Entity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +12,7 @@ namespace Grupo_Rac.API.Extensiones
     {
         public MappingProfileExtensions()
         {
-
+            CreateMap<DepartamentoViewModel, tbDepartamento>().ReverseMap();
         }
     }
 }

@@ -7,20 +7,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Grupo_Rac.DataAccess.Repositorio;
+using Grupo_Rac.BusinessLogic.Servicios;
 
-namespace SistemaRestaurante.BusinessLogic
+namespace Grupo_Rac.BusinessLogic
 {
     public static class ServicioConfiguracion
     {
         public static void DataAcces(this IServiceCollection service, string conn)
         {
-
-            //Grupo_RacContext.BuildConnectionString(conn);
+            service.AddScoped<DepartamentoRepositorio>();
+            GrupoRacContext.BuildConnectionString(conn);
 
         }
         public static void BussinesLogic(this IServiceCollection service)
         {
-            //service.AddScoped<ServiciosGenerales>();
+            service.AddScoped<GeneralService>();
             //service.AddScoped<ServiciosAcceso>();
             //service.AddScoped<ServicioRestaurantes>();
         }
