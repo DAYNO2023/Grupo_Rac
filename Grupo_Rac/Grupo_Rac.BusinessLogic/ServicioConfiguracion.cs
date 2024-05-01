@@ -16,6 +16,7 @@ namespace Grupo_Rac.BusinessLogic
     {
         public static void DataAcces(this IServiceCollection service, string conn)
         {
+            service.AddScoped<RolRepositorio>();
             service.AddScoped<DepartamentoRepositorio>();
             GrupoRacContext.BuildConnectionString(conn);
 
@@ -23,6 +24,7 @@ namespace Grupo_Rac.BusinessLogic
         public static void BussinesLogic(this IServiceCollection service)
         {
             service.AddScoped<GeneralService>();
+            service.AddScoped<AccesoService>();
             //service.AddScoped<ServiciosAcceso>();
             //service.AddScoped<ServicioRestaurantes>();
         }

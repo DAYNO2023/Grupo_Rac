@@ -25,5 +25,10 @@ namespace Grupo_Rac.DataAccess.Repositorio
         public static string Usuario_Login = "[Acce].[SP_Usuarios_InicioSesion]";
         public static string Usuario_Detalles = "[Acce].[SP_Usuarios_Detalles]";
         #endregion
+
+        #region Rol
+        public static string Roles_Mostrar = "[Acce].[SP_Rol_Mostrar]";
+
+        #endregion
     }
 }
