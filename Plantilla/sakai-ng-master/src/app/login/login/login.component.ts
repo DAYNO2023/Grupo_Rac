@@ -10,7 +10,7 @@ export class LoginComponent {
 
   onButtonClick() {
     console.log('Button clicked...');
-    this.router.navigate(['/dashboard']).then(success => {
+    this.router.navigate(['/app/dashboard']).then(success => {
         console.log('Redirection successful:', success);
     }).catch(err => {
         console.error('Redirection failed:', err);
