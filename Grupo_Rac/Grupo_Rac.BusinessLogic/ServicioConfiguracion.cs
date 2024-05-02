@@ -18,6 +18,7 @@ namespace Grupo_Rac.BusinessLogic
         {
             service.AddScoped<RolRepositorio>();
             service.AddScoped<DepartamentoRepositorio>();
+            service.AddScoped<UsuarioRepositorio>();
             GrupoRacContext.BuildConnectionString(conn);
 
         }
