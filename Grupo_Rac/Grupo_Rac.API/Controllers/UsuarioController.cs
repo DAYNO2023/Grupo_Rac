@@ -107,7 +107,7 @@ namespace Grupo_Rac.API.Controllers
             var model = _mapper.Map<tbUsuarios>(item);
             var modelo = new tbUsuarios()
             {
-                //Usua_Codigo = item.Usua_Codigo,
+                Usu_Codigo = item.Usu_Codigo,
                 Usu_Contra = item.Usu_Contra,
                 Usu_UsuModi = 1
             };

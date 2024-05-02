@@ -26,6 +26,7 @@ namespace Grupo_Rac.Common.Models
         public int? Sed_Id { get; set; }
         public int? Crg_Id { get; set; }
         public int? Rol_Id { get; set; }
+        public string Usu_Codigo { get; set; }
 
     }
 }

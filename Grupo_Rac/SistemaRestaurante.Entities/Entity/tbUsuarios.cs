@@ -63,6 +63,8 @@ namespace Grupo_Rac.Entities.Entity
         public int? Crg_Id { get; set; }
         public int? Rol_Id { get; set; }
 
+        public string Usu_Codigo { get; set; }
+
         public virtual tbCargos Crg { get; set; }
         public virtual tbEstadosCiviles Est { get; set; }
         public virtual tbRoles Rol { get; set; }

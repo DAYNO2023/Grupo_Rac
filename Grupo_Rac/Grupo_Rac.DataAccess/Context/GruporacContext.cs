@@ -448,6 +448,10 @@ namespace Grupo_Rac.DataAccess.Context
                     .WithMany(p => p.tbUsuarios)
                     .HasForeignKey(d => d.Sed_Id);
 
+                entity.Property(e => e.Usu_Codigo)
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
                 entity.HasOne(d => d.Usu_UsuCreNavigation)
                     .WithMany(p => p.InverseUsu_UsuCreNavigation)
                     .HasForeignKey(d => d.Usu_UsuCre)
